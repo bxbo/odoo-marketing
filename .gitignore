@@ -72,4 +72,4 @@ docs/_build/
 *.swp
 
 # OCA rules
-!static/lib/
+!marketing_base/static/lib/
